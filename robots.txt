@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feeghaikee.nal.one/sitemap.xml
